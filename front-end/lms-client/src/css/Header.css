@@ -1,0 +1,36 @@
+.nav-bar{
+    font-family: 'Microsoft Uighur', 'nunito-bold', sans-serif;
+    background-color: #FFFFFF;
+    box-shadow: 0 1px 10px #999;
+}
+
+.nav-bar-link{
+    color: #1890FF !important;
+    font-size: 25px;
+}
+
+.nav-bar-action{
+    font-size: 20px;
+    padding: 1px 1px;
+}
+
+.drop{
+    color: #1890FF;
+}
+
+.profile {
+    padding: 10px 12px;
+}
+
+.profile .user-full-name-info {
+    font-size: 25px;
+    font-weight: 600;
+    color: #1890FF;
+}
+
+.profile .username-info {
+    font-size: 20px;
+    padding: 0;
+    text-align: center;
+    color: rgba(0,0,0,0.65);
+}

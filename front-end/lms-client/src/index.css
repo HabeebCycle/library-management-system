@@ -1,13 +1,35 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@font-face {
+    font-family: 'din';
+    src: local('din'), url("./fonts/din.ttf") format('truetype');
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+@font-face {
+    font-family: 'nunito-regular';
+    src: local('nunito-regular'), url("./fonts/Nunito-Regular.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: 'nunito-bold';
+    src: local('nunito-bold'), url("./fonts/Nunito-SemiBold.ttf") format('truetype');
+}
+
+body {
+  margin: 0;
+  background: #FFFFFF;
+  font-family: 'Microsoft Uighur', 'nunito-bold', 'Calibri', "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, "Microsoft Yahei", sans-serif;
+}
+
+
+
+
+.home-card{
+    text-align: center;
+    margin-top: 20px;
+    -webkit-box-shadow: 0 1px 10px #999;
+    -moz-box-shadow: 0 1px 10px #999;
+    box-shadow: 0 1px 10px #999;
+}
+
+.bottom-row{
+    margin-top: 80px;
 }

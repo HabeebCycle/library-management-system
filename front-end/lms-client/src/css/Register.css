@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'nunito-bold';
+    src: local('nunito-bold'), url("../fonts/Nunito-SemiBold.ttf") format('truetype');
+}
+
+.register{
+    font-family: 'nunito-bold', sans-serif;
+    color: #1890FF !important;
+    max-width: 40rem;
+    margin: auto;
+    -webkit-box-shadow: 0 1px 10px #999;
+    -moz-box-shadow: 0 1px 10px #999;
+    box-shadow: 0 1px 10px #999;
+}
+
+.register .reg-button{
+    background-color: #1890FF;
+    border-color: #1890FF;
+}
+
+.register .header{
+    font-size: 22px;
+}
