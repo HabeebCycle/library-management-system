@@ -1,0 +1,3 @@
+spring:
+  datasource:
+    maximum-pool-size: 10

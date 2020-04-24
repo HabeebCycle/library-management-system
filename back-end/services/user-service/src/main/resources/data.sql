@@ -1,0 +1,5 @@
+INSERT INTO roles (id, name) VALUES
+(2, 'ROLE_ADMIN'),
+(3, 'ROLE_SUPER_USER'),
+(4, 'ROLE_TECH'),
+(1, 'ROLE_USER');

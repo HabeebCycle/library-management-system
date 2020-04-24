@@ -8,3 +8,8 @@ architecture and environment.
 Spring, Spring Boot, Spring Cloud (Eureka, Cloud-Config, Cloud-Gateway, Resilience4J, Security), Sleuth, Zipkin
 React, Redux, Jupyter Junit5, TDD, BDD, OAuth2, Swagger, WebFlux, MongoDB, MySQL, H2, JPA, 
 Redis Caching, Confluent Apache Kafka, RabbitMQ, Docker, Kubernetes, Grafana, Elasticsearch, Logstach, Kibana.
+
+
+#### Services ####
+front-end/lms-client port 3000
+user-service port 5001
